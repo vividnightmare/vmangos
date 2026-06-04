@@ -1,3 +1,7 @@
+Attempt to port [mod-playerbot](https://github.com/mod-playerbots/mod-playerbots) to vmangos.
+
+Reference (broken) [existing attempt](https://github.com/jcpulido97/core/tree/ah_bot)
+
 [![CI Build](https://github.com/vmangos/core/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/vmangos/core/actions/workflows/ci-build.yaml)
 
 
